@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Homelearning\homework\StoreHelper\bin\Debug\net9.0\StoreHelper.exe
+C:\Users\User\Desktop\Homelearning\homework\StoreHelper\bin\Debug\net9.0\StoreHelper.deps.json
+C:\Users\User\Desktop\Homelearning\homework\StoreHelper\bin\Debug\net9.0\StoreHelper.runtimeconfig.json
+C:\Users\User\Desktop\Homelearning\homework\StoreHelper\bin\Debug\net9.0\StoreHelper.dll
+C:\Users\User\Desktop\Homelearning\homework\StoreHelper\bin\Debug\net9.0\StoreHelper.pdb
+C:\Users\User\Desktop\Homelearning\homework\StoreHelper\obj\Debug\net9.0\StoreHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Homelearning\homework\StoreHelper\obj\Debug\net9.0\StoreHelper.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Homelearning\homework\StoreHelper\obj\Debug\net9.0\StoreHelper.AssemblyInfo.cs
+C:\Users\User\Desktop\Homelearning\homework\StoreHelper\obj\Debug\net9.0\StoreHelper.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homelearning\homework\StoreHelper\obj\Debug\net9.0\StoreHelper.sourcelink.json
+C:\Users\User\Desktop\Homelearning\homework\StoreHelper\obj\Debug\net9.0\StoreHelper.dll
+C:\Users\User\Desktop\Homelearning\homework\StoreHelper\obj\Debug\net9.0\refint\StoreHelper.dll
+C:\Users\User\Desktop\Homelearning\homework\StoreHelper\obj\Debug\net9.0\StoreHelper.pdb
+C:\Users\User\Desktop\Homelearning\homework\StoreHelper\obj\Debug\net9.0\StoreHelper.genruntimeconfig.cache
+C:\Users\User\Desktop\Homelearning\homework\StoreHelper\obj\Debug\net9.0\ref\StoreHelper.dll
