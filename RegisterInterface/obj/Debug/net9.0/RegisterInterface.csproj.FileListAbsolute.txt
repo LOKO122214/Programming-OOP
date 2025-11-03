@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\School\OOP\RegisterInterface\bin\Debug\net9.0\RegisterInterface.exe
+C:\Users\User\Desktop\School\OOP\RegisterInterface\bin\Debug\net9.0\RegisterInterface.deps.json
+C:\Users\User\Desktop\School\OOP\RegisterInterface\bin\Debug\net9.0\RegisterInterface.runtimeconfig.json
+C:\Users\User\Desktop\School\OOP\RegisterInterface\bin\Debug\net9.0\RegisterInterface.dll
+C:\Users\User\Desktop\School\OOP\RegisterInterface\bin\Debug\net9.0\RegisterInterface.pdb
+C:\Users\User\Desktop\School\OOP\RegisterInterface\obj\Debug\net9.0\RegisterInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\School\OOP\RegisterInterface\obj\Debug\net9.0\RegisterInterface.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\School\OOP\RegisterInterface\obj\Debug\net9.0\RegisterInterface.AssemblyInfo.cs
+C:\Users\User\Desktop\School\OOP\RegisterInterface\obj\Debug\net9.0\RegisterInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\School\OOP\RegisterInterface\obj\Debug\net9.0\RegisterInterface.dll
+C:\Users\User\Desktop\School\OOP\RegisterInterface\obj\Debug\net9.0\refint\RegisterInterface.dll
+C:\Users\User\Desktop\School\OOP\RegisterInterface\obj\Debug\net9.0\RegisterInterface.pdb
+C:\Users\User\Desktop\School\OOP\RegisterInterface\obj\Debug\net9.0\RegisterInterface.genruntimeconfig.cache
+C:\Users\User\Desktop\School\OOP\RegisterInterface\obj\Debug\net9.0\ref\RegisterInterface.dll
