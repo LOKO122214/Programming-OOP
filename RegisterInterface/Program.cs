@@ -3,7 +3,12 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Register first = new Register("LOKO122214", "cHL0K0122214", "ivailoarabadzhiev0@gmail.com");
+       string username = Console.ReadLine();
+ string password = Console.ReadLine(); 
+string email = Console.ReadLine(); 
+
+
+Register first = new Register(username, password, email );
         first.PrintData();
     }
 }
