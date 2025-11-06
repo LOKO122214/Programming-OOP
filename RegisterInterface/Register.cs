@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -88,17 +88,20 @@ namespace RegisterInterface
                         zvezda += "*";
                     }
                     newemail = email.Replace(email.Substring(0, email.IndexOf("@")), zvezda);
+
                 }
             }
             return newemail;
         }
 
-        public void PrintData(string password, string username, string newemail)
+        public void PrintData(string password, string username, string newemail,bool streng)
         {
-            if (streng == true)
+            bool strong = StrengofPassword(password,false);
+            if (strong == true)
             {
+                string changer = emailchanger(email, newemail);
                 Console.WriteLine($"Welcome {username}");
-                Console.WriteLine($"Your email is save as:{newemail}");
+                Console.WriteLine($"Your email is save as:{changer}");
             }
         }
     }
