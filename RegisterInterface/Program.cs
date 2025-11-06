@@ -8,7 +8,7 @@ internal class Program
 string email = Console.ReadLine(); 
 
 
-Register first = new Register(username, password, email );
+Register first = new Register(username, password, email,false );
         first.PrintData();
     }
 }
