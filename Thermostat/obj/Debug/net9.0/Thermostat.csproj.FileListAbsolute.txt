@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\School\home\prog\Thermostat\bin\Debug\net9.0\Thermostat.exe
+C:\Users\User\Desktop\School\home\prog\Thermostat\bin\Debug\net9.0\Thermostat.deps.json
+C:\Users\User\Desktop\School\home\prog\Thermostat\bin\Debug\net9.0\Thermostat.runtimeconfig.json
+C:\Users\User\Desktop\School\home\prog\Thermostat\bin\Debug\net9.0\Thermostat.dll
+C:\Users\User\Desktop\School\home\prog\Thermostat\bin\Debug\net9.0\Thermostat.pdb
+C:\Users\User\Desktop\School\home\prog\Thermostat\obj\Debug\net9.0\Thermostat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\School\home\prog\Thermostat\obj\Debug\net9.0\Thermostat.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\School\home\prog\Thermostat\obj\Debug\net9.0\Thermostat.AssemblyInfo.cs
+C:\Users\User\Desktop\School\home\prog\Thermostat\obj\Debug\net9.0\Thermostat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\School\home\prog\Thermostat\obj\Debug\net9.0\Thermostat.dll
+C:\Users\User\Desktop\School\home\prog\Thermostat\obj\Debug\net9.0\refint\Thermostat.dll
+C:\Users\User\Desktop\School\home\prog\Thermostat\obj\Debug\net9.0\Thermostat.pdb
+C:\Users\User\Desktop\School\home\prog\Thermostat\obj\Debug\net9.0\Thermostat.genruntimeconfig.cache
+C:\Users\User\Desktop\School\home\prog\Thermostat\obj\Debug\net9.0\ref\Thermostat.dll
