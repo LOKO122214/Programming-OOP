@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\School\home\prog\Smart Logistics System\bin\Debug\net9.0\Smart Logistics System.exe
+C:\Users\User\Desktop\School\home\prog\Smart Logistics System\bin\Debug\net9.0\Smart Logistics System.deps.json
+C:\Users\User\Desktop\School\home\prog\Smart Logistics System\bin\Debug\net9.0\Smart Logistics System.runtimeconfig.json
+C:\Users\User\Desktop\School\home\prog\Smart Logistics System\bin\Debug\net9.0\Smart Logistics System.dll
+C:\Users\User\Desktop\School\home\prog\Smart Logistics System\bin\Debug\net9.0\Smart Logistics System.pdb
+C:\Users\User\Desktop\School\home\prog\Smart Logistics System\obj\Debug\net9.0\Smart Logistics System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\School\home\prog\Smart Logistics System\obj\Debug\net9.0\Smart Logistics System.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\School\home\prog\Smart Logistics System\obj\Debug\net9.0\Smart Logistics System.AssemblyInfo.cs
+C:\Users\User\Desktop\School\home\prog\Smart Logistics System\obj\Debug\net9.0\Smart Logistics System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\School\home\prog\Smart Logistics System\obj\Debug\net9.0\Smart Logistics System.dll
+C:\Users\User\Desktop\School\home\prog\Smart Logistics System\obj\Debug\net9.0\refint\Smart Logistics System.dll
+C:\Users\User\Desktop\School\home\prog\Smart Logistics System\obj\Debug\net9.0\Smart Logistics System.pdb
+C:\Users\User\Desktop\School\home\prog\Smart Logistics System\obj\Debug\net9.0\Smart Logistics System.genruntimeconfig.cache
+C:\Users\User\Desktop\School\home\prog\Smart Logistics System\obj\Debug\net9.0\ref\Smart Logistics System.dll
