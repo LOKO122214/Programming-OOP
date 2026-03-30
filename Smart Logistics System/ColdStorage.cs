@@ -10,8 +10,7 @@ namespace Smart_Logistics_System
     {
         public double TargetTemperature { get; set; }
 
-        public ColdStorage(string id, double capacity, double targetTemp)
-            : base(id, capacity)
+        public ColdStorage(string id, double capacity, double targetTemp) : base(id, capacity)
         {
             TargetTemperature = targetTemp;
             currentTemperature = targetTemp;

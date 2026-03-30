@@ -4,7 +4,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("=== СИСТЕМА ЗА УПРАВЛЕНИЕ НА SMART СКЛАД ===\n");
+        Console.WriteLine("=== СИСТЕМА ЗА УПРАВЛЕНИЕ НА SMART СКЛАД ===");
 
         ColdStorage fridge = new ColdStorage("COLD-01", 10.5, -18.0);
         HighSecurityVault vault = new HighSecurityVault("VAULT-X", 2.0, "1234");
@@ -20,9 +20,6 @@ internal class Program
         Console.WriteLine("--- Тест на Климатичен Контрол ---");
         fridge.CheckClimateSafety();
 
-
-        Console.WriteLine("Сценарий: Повреда в захранването...");
-        Console.WriteLine();
 
         Console.WriteLine("--- Тест на Сигурност ---");
 

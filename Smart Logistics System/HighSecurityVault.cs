@@ -11,8 +11,7 @@ namespace Smart_Logistics_System
     {
         private string secretPin;
 
-        public HighSecurityVault(string id, double capacity, string pin)
-            : base(id, capacity)
+        public HighSecurityVault(string id, double capacity, string pin) : base(id, capacity)
         {
             secretPin = pin;
         }
